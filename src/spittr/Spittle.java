@@ -1,4 +1,4 @@
-package spittr.spittle;
+package spittr;
 
 import java.util.Date;
 
